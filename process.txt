@@ -1,0 +1,7 @@
+for storing the iamge and video in server we have to usec image tool kit 
+by instaling use iamgetool kit docs
+npm install iamgekit
+
+like cloudinary,awsS3
+
+//uuid
